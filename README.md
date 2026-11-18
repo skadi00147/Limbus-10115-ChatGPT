@@ -98,4 +98,4 @@ python -m venv .venv
 2. **形象出处与第三方无关声明**：本皮肤中的 **GPT 形象来源于 B 站 UP 主 `@ZipZipPipe` 的 GPT 二创 AI 娘化形象**，与 **OpenAI** 及 **Project Moon** 官方均无任何关联，**严禁任何形式的倒卖与商用**。
 3. **纯本地客户端视觉替换声明**：本安装器不使用 BepInEx / DLL 注入 / 内存修改器，仅修改用户本地缓存资产并保留 `.state/` 无损还原能力；请勿改动官方 `.bank` 语音包以外受保护文件，游戏版本大更新前建议先执行 `restore_vanilla.cmd`。
 4. **开源范围与版权**：`installer/` 与 `*.cmd` 代码按 [MIT License](LICENSE) 开源；美术与二创资产仅供同好免费交流与个人非商业使用，**严禁任何形式的倒卖、付费搬运、放入付费整合包或冒充原作者发布**。
-5. **致谢**：感谢 B 站 UP 主 `@ZipZipPipe` 创作的 GPT 二创 AI 娘化形象，以及开源社区项目 [UnityPy](https://github.com/K0lb3/UnityPy) 提供的 Unity 资源解析能力。
+5. **致谢**：感谢开源社区项目 [UnityPy](https://github.com/K0lb3/UnityPy) 提供的 Unity 资源解析能力。
