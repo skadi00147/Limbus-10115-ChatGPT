@@ -1,0 +1,1385 @@
+{
+  "mod_id": "limbus.yisang_index_father_10115",
+  "name": "蜘蛛巢 食指 父辈 李箱 (10115) 换皮工程",
+  "author": "skadi",
+  "version": "1.0.0",
+  "enabled": true,
+  "priority": 100,
+  "target_personality_id": 10115,
+  "vanilla_appearance_id": "10115_YiSang_Index_FatherAppearance",
+  "vanilla_normal_cg_key": "10115_normal",
+  "force_rgba32_atlas": false,
+  "skill_names": {},
+  "illust_params": {},
+  "frame_params": {
+    "idle": {
+      "scale": 1.538,
+      "offset_x": 4,
+      "offset_y": 9,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "dmg": {
+      "scale": 1.275,
+      "offset_x": 10,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "gud": {
+      "scale": 1.383,
+      "offset_x": 0,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "miss": {
+      "scale": 1.597,
+      "offset_x": -55,
+      "offset_y": -24,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "move": {
+      "scale": 2.284,
+      "offset_x": 19,
+      "offset_y": -1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_1": {
+      "scale": 1.959,
+      "offset_x": 3,
+      "offset_y": 5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_2": {
+      "scale": 2.145,
+      "offset_x": 8,
+      "offset_y": -7,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_3": {
+      "scale": 1.77,
+      "offset_x": -1,
+      "offset_y": -3,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_5": {
+      "scale": 1.838,
+      "offset_x": 3,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_6": {
+      "scale": 1.819,
+      "offset_x": 0,
+      "offset_y": -6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_7~10": {
+      "scale": 1.88,
+      "offset_x": 3,
+      "offset_y": -6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_11~13": {
+      "scale": 1.352,
+      "offset_x": -15,
+      "offset_y": -5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_14~15": {
+      "scale": 1.477,
+      "offset_x": -5,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_16": {
+      "scale": 1.422,
+      "offset_x": 3,
+      "offset_y": -8,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_17": {
+      "scale": 1.422,
+      "offset_x": 2,
+      "offset_y": -8,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_18~20": {
+      "scale": 1.233,
+      "offset_x": 29,
+      "offset_y": -10,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_2": {
+      "scale": 2.461,
+      "offset_x": 29,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_4,5": {
+      "scale": 1.258,
+      "offset_x": -13,
+      "offset_y": 5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_18,19": {
+      "scale": 1.256,
+      "offset_x": -11,
+      "offset_y": 9,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_17": {
+      "scale": 1.356,
+      "offset_x": 5,
+      "offset_y": -8,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_21": {
+      "scale": 1.241,
+      "offset_x": 30,
+      "offset_y": -6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_22": {
+      "scale": 1.475,
+      "offset_x": 39,
+      "offset_y": -11,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_25": {
+      "scale": 1.393,
+      "offset_x": -43,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_27": {
+      "scale": 1.366,
+      "offset_x": -1,
+      "offset_y": -3,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_28": {
+      "scale": 2.164,
+      "offset_x": 0,
+      "offset_y": -2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_29,30": {
+      "scale": 1.269,
+      "offset_x": 1,
+      "offset_y": -1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_1": {
+      "scale": 7.419,
+      "offset_x": 12,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_2": {
+      "scale": 7.419,
+      "offset_x": 12,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_4": {
+      "scale": 2.266,
+      "offset_x": 11,
+      "offset_y": -6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_6": {
+      "scale": 1.532,
+      "offset_x": 45,
+      "offset_y": -12,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_7": {
+      "scale": 1.529,
+      "offset_x": 47,
+      "offset_y": -13,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_8": {
+      "scale": 1.529,
+      "offset_x": 47,
+      "offset_y": -13,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_9": {
+      "scale": 1.529,
+      "offset_x": 47,
+      "offset_y": -13,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_10": {
+      "scale": 1.529,
+      "offset_x": 47,
+      "offset_y": -13,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_11": {
+      "scale": 1.529,
+      "offset_x": 47,
+      "offset_y": -13,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_12": {
+      "scale": 1.529,
+      "offset_x": 47,
+      "offset_y": -13,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_13": {
+      "scale": 1.529,
+      "offset_x": 47,
+      "offset_y": -13,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_14": {
+      "scale": 1.529,
+      "offset_x": 47,
+      "offset_y": -13,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_11~13_b": {
+      "scale": 1.933,
+      "offset_x": 56,
+      "offset_y": -15,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_14~15_b": {
+      "scale": 1.608,
+      "offset_x": 35,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_21~22": {
+      "scale": 1.448,
+      "offset_x": 2,
+      "offset_y": -1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_21~22_b": {
+      "scale": 1.497,
+      "offset_x": -1,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_4": {
+      "scale": 1.839,
+      "offset_x": 3,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_0_1": {
+      "scale": 1.401,
+      "offset_x": 36,
+      "offset_y": -5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_0_2": {
+      "scale": 1.401,
+      "offset_x": 36,
+      "offset_y": -5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_2_b": {
+      "scale": 1.697,
+      "offset_x": 22,
+      "offset_y": 5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_3": {
+      "scale": 1.662,
+      "offset_x": 9,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_4,5_b": {
+      "scale": 1.662,
+      "offset_x": 9,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_17_b": {
+      "scale": 1.793,
+      "offset_x": 25,
+      "offset_y": 1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_18,19_b": {
+      "scale": 1.23,
+      "offset_x": -16,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_20_b": {
+      "scale": 1.8,
+      "offset_x": 64,
+      "offset_y": 26,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_24_b": {
+      "scale": 1.483,
+      "offset_x": 35,
+      "offset_y": -5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill_3": {
+      "scale": 7.419,
+      "offset_x": 12,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_3_b": {
+      "scale": 1.245,
+      "offset_x": 5,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_6": {
+      "scale": 2.832,
+      "offset_x": 21,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_7": {
+      "scale": 1.559,
+      "offset_x": 40,
+      "offset_y": -5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_8": {
+      "scale": 1.67,
+      "offset_x": 34,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_9": {
+      "scale": 1.594,
+      "offset_x": 7,
+      "offset_y": 45,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_10": {
+      "scale": 1.553,
+      "offset_x": 16,
+      "offset_y": 26,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_11,13": {
+      "scale": 1.552,
+      "offset_x": -27,
+      "offset_y": 81,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_15": {
+      "scale": 1.594,
+      "offset_x": 67,
+      "offset_y": -2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_16": {
+      "scale": 1.306,
+      "offset_x": -10,
+      "offset_y": -10,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_1": {
+      "scale": 4.986,
+      "offset_x": -55,
+      "offset_y": -8,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_1_2": {
+      "scale": 3.744,
+      "offset_x": -26,
+      "offset_y": -8,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_1_3": {
+      "scale": 3.467,
+      "offset_x": -21,
+      "offset_y": -8,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_1_4": {
+      "scale": 2.09,
+      "offset_x": 63,
+      "offset_y": -8,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_1_5": {
+      "scale": 1.583,
+      "offset_x": 128,
+      "offset_y": -7,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_1_6": {
+      "scale": 1.849,
+      "offset_x": 83,
+      "offset_y": -10,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_1_7": {
+      "scale": 1.798,
+      "offset_x": 86,
+      "offset_y": -10,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_2": {
+      "scale": 1.358,
+      "offset_x": 28,
+      "offset_y": -11,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_2_b": {
+      "scale": 1.559,
+      "offset_x": 40,
+      "offset_y": -5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_3,5": {
+      "scale": 1.589,
+      "offset_x": -44,
+      "offset_y": 6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_3,6": {
+      "scale": 1.362,
+      "offset_x": 3,
+      "offset_y": -2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_4": {
+      "scale": 1.311,
+      "offset_x": 14,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_4,8": {
+      "scale": 1.581,
+      "offset_x": 51,
+      "offset_y": -9,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_5,7": {
+      "scale": 1.518,
+      "offset_x": 27,
+      "offset_y": -1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_11": {
+      "scale": 1.612,
+      "offset_x": -12,
+      "offset_y": -6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_12,13": {
+      "scale": 1.938,
+      "offset_x": -9,
+      "offset_y": -14,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_16": {
+      "scale": 1.442,
+      "offset_x": 43,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_16_b": {
+      "scale": 1.746,
+      "offset_x": 18,
+      "offset_y": -3,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_18": {
+      "scale": 1.395,
+      "offset_x": -32,
+      "offset_y": -16,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_19": {
+      "scale": 1.092,
+      "offset_x": -5,
+      "offset_y": -21,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_20": {
+      "scale": 1.013,
+      "offset_x": -20,
+      "offset_y": -2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_21,22": {
+      "scale": 1.464,
+      "offset_x": -74,
+      "offset_y": -13,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_21_22": {
+      "scale": 1.464,
+      "offset_x": -74,
+      "offset_y": -13,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_23": {
+      "scale": 1.237,
+      "offset_x": 25,
+      "offset_y": -1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_26": {
+      "scale": 1.34,
+      "offset_x": 41,
+      "offset_y": -2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_27_b": {
+      "scale": 1.031,
+      "offset_x": 9,
+      "offset_y": -10,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_24": {
+      "scale": 1.38,
+      "offset_x": 86,
+      "offset_y": -18,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "idle_r": {
+      "scale": 1.749,
+      "offset_x": 3,
+      "offset_y": 6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "move_r": {
+      "scale": 2.284,
+      "offset_x": 14,
+      "offset_y": -2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "dmg_r": {
+      "scale": 1.338,
+      "offset_x": 11,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "gud_r": {
+      "scale": 1.381,
+      "offset_x": 0,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "miss_r": {
+      "scale": 1.557,
+      "offset_x": -56,
+      "offset_y": -24,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "idle_p2": {
+      "scale": 1.538,
+      "offset_x": 4,
+      "offset_y": 9,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "dmg_p2": {
+      "scale": 1.275,
+      "offset_x": 10,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "gud_p2": {
+      "scale": 1.383,
+      "offset_x": 0,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "move_p2": {
+      "scale": 2.284,
+      "offset_x": 19,
+      "offset_y": -1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "miss_p2": {
+      "scale": 1.597,
+      "offset_x": -55,
+      "offset_y": -24,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_1_p2": {
+      "scale": 1.959,
+      "offset_x": 3,
+      "offset_y": 5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_2_p2": {
+      "scale": 2.145,
+      "offset_x": 8,
+      "offset_y": -7,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_3_p2": {
+      "scale": 1.986,
+      "offset_x": -1,
+      "offset_y": -6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_4_p2": {
+      "scale": 2.13,
+      "offset_x": 4,
+      "offset_y": -15,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_5_p2": {
+      "scale": 1.838,
+      "offset_x": 3,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_6_p2": {
+      "scale": 1.819,
+      "offset_x": 0,
+      "offset_y": -6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_7~10_p2": {
+      "scale": 1.88,
+      "offset_x": 3,
+      "offset_y": -6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_11~13_p2": {
+      "scale": 1.352,
+      "offset_x": -15,
+      "offset_y": -5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_11~13_p2_b": {
+      "scale": 1.933,
+      "offset_x": 56,
+      "offset_y": -15,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_14~15_p2": {
+      "scale": 1.477,
+      "offset_x": -5,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_14~15_p2_b": {
+      "scale": 1.608,
+      "offset_x": 35,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_16_p2": {
+      "scale": 1.422,
+      "offset_x": 3,
+      "offset_y": -8,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_17_p2": {
+      "scale": 1.422,
+      "offset_x": 3,
+      "offset_y": -8,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill1_18~20_p2": {
+      "scale": 1.233,
+      "offset_x": 29,
+      "offset_y": -10,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_2_p2": {
+      "scale": 2.461,
+      "offset_x": 29,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_2_p2_b": {
+      "scale": 1.68888,
+      "offset_x": 22,
+      "offset_y": 5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_3_p2": {
+      "scale": 1.658905,
+      "offset_x": 8,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_3_p2_b": {
+      "scale": 1.245,
+      "offset_x": 5,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_4,5_p2": {
+      "scale": 1.258,
+      "offset_x": -13,
+      "offset_y": 5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_4,5_p2_b": {
+      "scale": 1.658905,
+      "offset_x": 2,
+      "offset_y": 1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_6_p2": {
+      "scale": 2.840906,
+      "offset_x": 22,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_7_p2": {
+      "scale": 1.559,
+      "offset_x": 40,
+      "offset_y": -5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_8_p2": {
+      "scale": 1.673163,
+      "offset_x": 34,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_9_p2": {
+      "scale": 1.591703,
+      "offset_x": 7,
+      "offset_y": 46,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_10_p2": {
+      "scale": 1.553,
+      "offset_x": 16,
+      "offset_y": 26,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_11,13_p2": {
+      "scale": 1.552,
+      "offset_x": -27,
+      "offset_y": 81,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill2_16_p2": {
+      "scale": 1.306,
+      "offset_x": -10,
+      "offset_y": -10,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_2_p2": {
+      "scale": 1.358,
+      "offset_x": 28,
+      "offset_y": -11,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_3,5_p2": {
+      "scale": 1.589,
+      "offset_x": -44,
+      "offset_y": 6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_3,6_p2": {
+      "scale": 1.362,
+      "offset_x": 3,
+      "offset_y": -2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_4_p2": {
+      "scale": 1.311,
+      "offset_x": 14,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_4,8_p2": {
+      "scale": 1.581,
+      "offset_x": 51,
+      "offset_y": -9,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_5,7_p2": {
+      "scale": 1.518,
+      "offset_x": 27,
+      "offset_y": -1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_11_p2": {
+      "scale": 1.612,
+      "offset_x": -12,
+      "offset_y": -6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_16_p2": {
+      "scale": 1.442,
+      "offset_x": 43,
+      "offset_y": 1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_16_p2_b": {
+      "scale": 1.746,
+      "offset_x": 18,
+      "offset_y": -3,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_17_p2": {
+      "scale": 1.356,
+      "offset_x": 5,
+      "offset_y": -8,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_17_p2_b": {
+      "scale": 1.793,
+      "offset_x": 25,
+      "offset_y": 1,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_18_p2": {
+      "scale": 1.395,
+      "offset_x": -31,
+      "offset_y": -17,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_18,19_p2": {
+      "scale": 1.256,
+      "offset_x": -11,
+      "offset_y": 9,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_18,19_p2_b": {
+      "scale": 1.23,
+      "offset_x": -16,
+      "offset_y": 2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_19_p2": {
+      "scale": 1.092,
+      "offset_x": -3,
+      "offset_y": -21,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_20_p2": {
+      "scale": 1.013,
+      "offset_x": -17,
+      "offset_y": -2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_20_p2_b": {
+      "scale": 1.8,
+      "offset_x": 64,
+      "offset_y": 26,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_24_p2": {
+      "scale": 1.38,
+      "offset_x": 84,
+      "offset_y": -18,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_24_p2_b": {
+      "scale": 1.483,
+      "offset_x": 35,
+      "offset_y": -5,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_26_p2": {
+      "scale": 1.34,
+      "offset_x": 40,
+      "offset_y": -2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "skill3_27_p2_b": {
+      "scale": 1.031,
+      "offset_x": 10,
+      "offset_y": -10,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "idle_p2_r": {
+      "scale": 1.749,
+      "offset_x": 3,
+      "offset_y": 6,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "move_p2_r": {
+      "scale": 2.284,
+      "offset_x": 14,
+      "offset_y": -2,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "dmg_p2_r": {
+      "scale": 1.338,
+      "offset_x": 11,
+      "offset_y": 0,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "gud_p2_r": {
+      "scale": 1.381,
+      "offset_x": 0,
+      "offset_y": -4,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    },
+    "miss_p2_r": {
+      "scale": 1.570365,
+      "offset_x": -56,
+      "offset_y": -23,
+      "alpha_choke": 0,
+      "brightness": 1.0,
+      "contrast": 1.0,
+      "saturation": 1.0
+    }
+  },
+  "notes": "Official PC Steam release manifest (converted from Lethe Studio; custom_sprites/Lethe-only hooks removed and shared UnitKeyword tags kept vanilla)."
+}

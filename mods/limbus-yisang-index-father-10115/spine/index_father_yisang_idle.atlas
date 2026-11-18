@@ -1,0 +1,8 @@
+index_father_yisang_idle.png
+size:1216,1024
+filter:Linear,Linear
+pma:true
+head
+bounds:32,32,552,960
+off_head
+bounds:632,32,552,960
