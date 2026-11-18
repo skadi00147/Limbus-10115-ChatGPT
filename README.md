@@ -97,5 +97,5 @@ python -m venv .venv
 1. **非官方二创与原作版权声明**：本项目及所含资产为粉丝基于《Limbus Company（边狱公司）》制作的**非官方免费同人视觉替换模组**，与 **Project Moon** 官方没有任何从属、授权、赞助或合作关系。游戏原作角色设计、世界观、台词文本、游戏程序、商标及其他一切官方知识产权均归 **Project Moon** 所有。
 2. **形象出处与第三方无关声明**：本皮肤中的 **GPT 形象来源于 B 站 UP 主 `@ZipZipPipe` 的 GPT 二创 AI 娘化形象**，与 **OpenAI** 及 **Project Moon** 官方均无任何关联，**严禁任何形式的倒卖与商用**。
 3. **纯本地客户端视觉替换声明**：本安装器不使用 BepInEx / DLL 注入 / 内存修改器，仅修改用户本地缓存资产并保留 `.state/` 无损还原能力；请勿改动官方 `.bank` 语音包以外受保护文件，游戏版本大更新前建议先执行 `restore_vanilla.cmd`。
-4. **开源范围与版权**：`installer/` 与 `*.cmd` 代码按 [MIT License](LICENSE) 开源；美术与二创资产仅供同好免费交流与个人非商业使用，**严禁任何形式的倒卖、付费搬运、放入付费整合包或冒充原作者发布**。
+4. **开源范围与非商业协议**：本项目整体（含 `installer/`、`*.cmd` 脚本以及 `mods/`、`optional_voice/` 全部美术与语音资产）统一遵循 [PolyForm Noncommercial License 1.0.0](LICENSE) 非商业协议（`Required Notice: Copyright (c) 2026 skadi00147`）。仅限同好免费交流与个人非商业娱乐使用，**严禁任何形式的倒卖、商业使用、付费搬运、放入付费整合包或冒充原作者发布**。
 5. **致谢**：感谢开源社区项目 [UnityPy](https://github.com/K0lb3/UnityPy) 提供的 Unity 资源解析能力。
