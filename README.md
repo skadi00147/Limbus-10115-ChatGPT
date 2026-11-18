@@ -52,8 +52,8 @@
 
 * **实机战斗演示视频（B 站）**：[`BV1aUsg62EXo`](https://www.bilibili.com/video/BV1aUsg62EXo/)（`https://www.bilibili.com/video/BV1aUsg62EXo/`）
 * **GitHub 仓库 / Release 直下**：[`skadi00147/Limbus-10115-ChatGPT`](https://github.com/skadi00147/Limbus-10115-ChatGPT)
-* **夸克网盘分流（`Limbus-10115-ChatGPT-v1.0.0.zip`）**：[`https://pan.quark.cn/s/104d2b93c2d7?pwd=4pfw`](https://pan.quark.cn/s/104d2b93c2d7?pwd=4pfw)（提取码：`4pfw`）
-* **百度网盘分流（`Limbus-10115-ChatGPT-v1.0.0.zip`）**：[`https://pan.baidu.com/s/1OyNnG4dz0KykwR2VKjyWBw?pwd=hncj`](https://pan.baidu.com/s/1OyNnG4dz0KykwR2VKjyWBw?pwd=hncj)（提取码：`hncj`）
+* **夸克网盘分流（`Limbus-10115-ChatGPT-v1.0.0(1).zip`）**：[`https://pan.quark.cn/s/4d43ae94863c?pwd=5RBP`](https://pan.quark.cn/s/4d43ae94863c?pwd=5RBP)（提取码：`5RBP`）
+* **百度网盘分流（`Limbus-10115-ChatGPT-v1.0.0(1).zip`）**：[`https://pan.baidu.com/s/1x9PaPlZC3VgYe2whx-KQ8Q?pwd=e9ej`](https://pan.baidu.com/s/1x9PaPlZC3VgYe2whx-KQ8Q?pwd=e9ej)（提取码：`e9ej`）
 
 ---
 
